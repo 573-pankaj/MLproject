@@ -1,1 +1,7 @@
 
+# Environments
+.Environments
+.env 
+env/ 
+venv/
+
